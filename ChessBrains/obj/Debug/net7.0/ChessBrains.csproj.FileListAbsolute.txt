@@ -1,0 +1,15 @@
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\bin\Debug\net7.0\ChessBrains.exe
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\bin\Debug\net7.0\ChessBrains.deps.json
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\bin\Debug\net7.0\ChessBrains.runtimeconfig.json
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\bin\Debug\net7.0\ChessBrains.dll
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\bin\Debug\net7.0\ChessBrains.pdb
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.csproj.AssemblyReference.cache
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.AssemblyInfoInputs.cache
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.AssemblyInfo.cs
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.csproj.CoreCompileInputs.cache
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.dll
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\refint\ChessBrains.dll
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.pdb
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ChessBrains.genruntimeconfig.cache
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains\obj\Debug\net7.0\ref\ChessBrains.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBrains", "ChessBrains\ChessBrains.csproj", "{8F4BA48F-2183-477B-ABBC-476421006B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBrains_Test", "ChessBrains_Test\ChessBrains_Test.csproj", "{8C87B859-C3D0-4189-88C3-894C41AF4DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4BA48F-2183-477B-ABBC-476421006B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4BA48F-2183-477B-ABBC-476421006B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4BA48F-2183-477B-ABBC-476421006B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4BA48F-2183-477B-ABBC-476421006B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C87B859-C3D0-4189-88C3-894C41AF4DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C87B859-C3D0-4189-88C3-894C41AF4DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C87B859-C3D0-4189-88C3-894C41AF4DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C87B859-C3D0-4189-88C3-894C41AF4DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

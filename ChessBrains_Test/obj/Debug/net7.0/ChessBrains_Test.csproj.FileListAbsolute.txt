@@ -1,0 +1,6 @@
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test\obj\Debug\net7.0\ChessBrains_Test.csproj.AssemblyReference.cache
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test\obj\Debug\net7.0\ChessBrains_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test\obj\Debug\net7.0\ChessBrains_Test.AssemblyInfoInputs.cache
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test\obj\Debug\net7.0\ChessBrains_Test.AssemblyInfo.cs
+C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test\obj\Debug\net7.0\ChessBrains_Test.csproj.CoreCompileInputs.cache
