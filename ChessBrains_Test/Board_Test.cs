@@ -9,13 +9,12 @@ public class Board_Test
     [InlineData(8, 8)]
     public void Board_Setup(int x, int y)
     {
+        var correctSetup = new Cell[8,8];
+
         var board = new Board();
-        Assert.Empty(board.Cells);
-        
+        Assert.Null(board.Cells);
+
         board.ResetPieces();
-        foreach (var cell in board.Cells)
-        {
-            
-        }
+        Assert.Equal(board.Cells, correctSetup);
     }
 }

@@ -2,7 +2,7 @@
 
 public class Board
 {
-    public Cell[][] Cells;
+    public Cell[,] Cells;
     public Board()
     {
         

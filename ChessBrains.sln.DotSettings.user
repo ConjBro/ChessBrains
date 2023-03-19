@@ -1,6 +1,12 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=30226c6d_002D2ec5_002D4f1d_002D8dd2_002Dae82a3cfe7a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Piece_Creation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=30226c6d_002D2ec5_002D4f1d_002D8dd2_002Dae82a3cfe7a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Piece_Creation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::8C87B859-C3D0-4189-88C3-894C41AF4DC3::net7.0::ChessBrains_Test.Piece_Test.Piece_Creation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8C87B859-C3D0-4189-88C3-894C41AF4DC3::net7.0::ChessBrains_Test.Board_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8C87B859-C3D0-4189-88C3-894C41AF4DC3::net7.0::ChessBrains_Test.Cell_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8C87B859-C3D0-4189-88C3-894C41AF4DC3::net7.0::ChessBrains_Test.Piece_Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f67ba7cc_002De53f_002D4a37_002D8439_002D0e9d2a032279/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;ChessBrains_Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Brooky\Documents\C# Things\ChessBrains\ChessBrains_Test" Presentation="&amp;lt;ChessBrains_Test&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
