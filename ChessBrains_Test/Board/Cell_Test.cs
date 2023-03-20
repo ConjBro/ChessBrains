@@ -15,6 +15,5 @@ public class Cell_Test
         Assert.Equal(y, cell.y);
         Assert.Equal(x, cell.x);
         Assert.Equal(examplePiece, cell.occupantPiece);
-        
     }
 }
